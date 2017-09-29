@@ -1,32 +1,33 @@
 body {
-    background-color: #ffedd6;
+    background-color: #68A0E0;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 20px;
 }
 
 h1 {
     text-align: center;
-    font-size: 48px;
-    color: #140C0C;
-    font-family: 'Luckiest Guy', cursive;
+    font-size: 36px;
 }
 
-#burgersNotEaten {
+#burgersNotDevoured {
     width: 50%;
     float: left;
-    font-family: 'Heebo', sans-serif;
     text-align: center;
 }
 
-#burgersEaten {
+#burgersDevoured {
     width: 50%;
     float: right;
-    font-family: 'Heebo', sans-serif;
     text-align: center;
 }
 
 #addBurger {
     clear: left;
-    font-family: 'Heebo', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     margin: auto;
     width: 50%;
     text-align: center;
@@ -34,4 +35,8 @@ h1 {
 
 ul {
     font-size: 18px;
+}
+
+p {
+    font-size: 14px;
 }

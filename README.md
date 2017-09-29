@@ -14,22 +14,22 @@ The app stores every burger in a database, whether devoured or not.
 
 #### Homescreen for Eat-Da-Burger!a:
 
-![Image 1](/assets/img/capture1.PNG)
+![Image 1](/public/assets/img/capture1.PNG)
 
 
 
 #### Type in a new burger and press "Submit" to enter it into the column of burgers on the left side of the screen:
 
-![Image 1](/assets/img/capture2.PNG)
+![Image 1](/public/assets/img/capture2.PNG)
 
 
 
 #### : All burgers ready to be devoured!
 
-![Image 1](/assets/img/capture3.PNG)
+![Image 1](/public/assets/img/capture3.PNG)
 
 
 
 #### : As the burgers are devoured they move to the right side of the app!
 
-![Image 1](/assets/img/capture4.PNG)
+![Image 1](/public/assets/img/capture4.PNG)
